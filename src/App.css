@@ -17,22 +17,28 @@
 }
 
 .services {
- 
+   
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
   
-  color: #fff;
-  font-size: 100px;
-}
-
-.products {
+  .products {
+   
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
   
-  
-  color: #fff;
-  font-size: 100px;
-}
-
-.sign-up {
- 
- 
-  color: #fff;
-  font-size: 100px;
-}
+  .sign-up {
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
