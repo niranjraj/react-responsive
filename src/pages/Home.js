@@ -3,7 +3,7 @@ import HeroSection from '../components/HeroSection';
 import Cards from '../components/Cards';
 import Footer from '../components/Footer';
 
- const Home = (params) => {
+ const Home = () => {
     return(
         <>
         <HeroSection/>
